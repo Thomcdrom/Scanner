@@ -19,6 +19,7 @@ namespace RunAndJump
         int time = 0;
         int left = 0;
         int top = 250;
+
         int left2;
         int top2;
 

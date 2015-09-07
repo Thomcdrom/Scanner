@@ -22,3 +22,6 @@ C:\Users\gabyg\Documents\Visual Studio 2015\Projects\RunAndJump\RunAndJump\obj\D
 C:\Users\gabyg\Documents\GitHubVisualStudio\vs-ultimate-2013\RunAndJump\RunAndJump\bin\Debug\RunAndJump.exe.config
 C:\Users\gabyg\Documents\GitHubVisualStudio\vs-ultimate-2013\RunAndJump\RunAndJump\obj\Debug\RunAndJump.exe
 C:\Users\gabyg\Documents\GitHubVisualStudio\vs-ultimate-2013\RunAndJump\RunAndJump\obj\Debug\RunAndJump.pdb
+C:\Users\Thom\Source\Repos\vs-ultimate-2013\RunAndJump\RunAndJump\bin\Debug\RunAndJump.exe.config
+C:\Users\Thom\Source\Repos\vs-ultimate-2013\RunAndJump\RunAndJump\obj\Debug\RunAndJump.exe
+C:\Users\Thom\Source\Repos\vs-ultimate-2013\RunAndJump\RunAndJump\obj\Debug\RunAndJump.pdb
